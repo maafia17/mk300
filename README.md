@@ -1,2 +1,2 @@
 # mk300
-my website 
+index.html
